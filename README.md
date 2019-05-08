@@ -11,8 +11,8 @@ can do with it.
 2. Explain the difference between inline and block elements
 
 ## Identify That DOM Nodes Are Written As HTML
-
-![Syntax](https://media.giphy.com/media/3o6MbkZSYy4mI3gLYc/giphy.gif)
+<!-- 
+![Syntax](https://media.giphy.com/media/3o6MbkZSYy4mI3gLYc/giphy.gif) -->
 
 When viewing the DOM (through DevTools' **Elements** tab) we see HTML that is a
 clone of the HTML found in the source HTML file.  DOM nodes represent all
